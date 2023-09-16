@@ -1,0 +1,17 @@
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\HelloWorld.deps.json
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\HelloWorld.runtimeconfig.json
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\HelloWorld.dll
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\HelloWorld.pdb
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.AssemblyInfo.cs
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.csproj.CopyComplete
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.dll
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\refint\HelloWorld.dll
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.pdb
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\HelloWorld.genruntimeconfig.cache
+C:\Users\Aiden.MSI\HelloWorld\.godot\mono\temp\obj\Debug\ref\HelloWorld.dll

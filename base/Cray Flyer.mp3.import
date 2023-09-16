@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmlmutmhbmt0f"
+path="res://.godot/imported/Cray Flyer.mp3-50f3547e13b0b7d1a276fbfc83c8c3b0.mp3str"
+
+[deps]
+
+source_file="res://base/Cray Flyer.mp3"
+dest_files=["res://.godot/imported/Cray Flyer.mp3-50f3547e13b0b7d1a276fbfc83c8c3b0.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

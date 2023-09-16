@@ -1,0 +1,36 @@
+2a60927148abd1d33b818b535e306557
+::res://::1694894071
+export_presets.cfg::TextFile::-1::1694889911::0::1::::<><>::
+icon.svg::CompressedTexture2D::4180526093742961928::1694702245::1694702259::1::::<><>::
+::res://addons/::1694887604
+::res://addons/godot_icon/::1694887529
+CreateIcon.gd::GDScript::-1::1694888422::0::1::::CreateIcon<>SceneTree<>::
+GodotIconPlugin.gd::GDScript::-1::1694887529::0::1::::<>RefCounted<>::
+IconCreator.gd::GDScript::-1::1694887529::0::1::::<>RefCounted<>::
+IconCreator.tscn::PackedScene::-1::1694887529::0::1::::<><>::res://addons/godot_icon/IconCreator.gd
+IconReplacer.gd::GDScript::-1::1694887529::0::1::::<>RefCounted<>::
+IconReplacer.tscn::PackedScene::-1::1694887529::0::1::::<><>::res://addons/godot_icon/IconReplacer.gd
+LICENSE.md::TextFile::-1::1694887529::0::1::::<><>::
+plugin.cfg::TextFile::-1::1694887529::0::1::::<><>::
+ReplaceIcon.gd::GDScript::-1::1694888396::0::1::::ReplaceIcon<>SceneTree<>::
+::res://base/::1694887709
+base.tscn::PackedScene::4128001736955383979::1694887709::0::1::::<><>::res://player/Player.cs<>uid://8sny23eyhebr<>uid://jh7ejcwg6cgm<>uid://xvk7y8ky51ti<>res://coin/Coin.cs<>uid://cxumhoao4t1qh<>res://evil/Evil.cs
+Cray Flyer.mp3::AudioStreamMP3::5638580982929728243::1694883106::1694883109::1::::<><>::
+::res://bin/::1694890061
+::res://bin/data_Cray Flyer_x86_64/::1694889911
+HelloWorld.deps.json::JSON::-1::1694889906::0::1::::<><>::
+HelloWorld.runtimeconfig.json::JSON::-1::1694889907::0::1::::<><>::
+::res://coin/::1694797009
+Coin.cs::CSharpScript::-1::1694802848::0::1::::<><>::
+coin.png::CompressedTexture2D::1658360963869206758::1694796837::1694796846::1::::<><>::
+::res://evil/::1694884650
+Evil.cs::CSharpScript::-1::1694887090::0::1::::<><>::
+evil.png::CompressedTexture2D::6429214166615203383::1694883771::1694883776::1::::<><>::
+::res://godoticonplugin-47fd114a1550a571b85dd0490f3fda937319f745/::1694887529
+::res://godoticonplugin-47fd114a1550a571b85dd0490f3fda937319f745/addons/::1694887604
+::res://gui/::1694889681
+GameOverInstructions.cs::CSharpScript::-1::1694801885::0::1::::<><>::
+ui.tscn::PackedScene::2354224281186897275::1694889681::0::1::::<><>::res://gui/GameOverInstructions.cs
+::res://player/::1694723124
+flyer.png::CompressedTexture2D::648100800773434744::1694718907::1694718908::1::::<><>::
+Player.cs::CSharpScript::-1::1694887098::0::1::::<><>::

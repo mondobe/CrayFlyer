@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Js0CqnJotC9BrX1Sl5nIT5lNdpGULqB0xxvQUGqz+y/lm5Ks5s7tfYInW3bW3wQKEgH7QlKdWWa6ow3rBDX9PQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aiden.MSI\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aiden.MSI\\.nuget\\packages\\godot.sourcegenerators\\4.0.3\\godot.sourcegenerators.4.0.3.nupkg.sha512",
+    "C:\\Users\\Aiden.MSI\\.nuget\\packages\\godotsharp\\4.0.3\\godotsharp.4.0.3.nupkg.sha512",
+    "C:\\Users\\Aiden.MSI\\.nuget\\packages\\godotsharpeditor\\4.0.3\\godotsharpeditor.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
