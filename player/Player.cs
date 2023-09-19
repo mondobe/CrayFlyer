@@ -18,6 +18,11 @@ public partial class Player : Node2D
 
 	public int Score, HighScore;
 	public int Health;
+	
+	[Export]
+	private SFXPool sfxPool;
+	[Export]
+	private AudioStream hit, zoom;
 
 	public enum State {
 		HANGING,
@@ -71,8 +76,11 @@ public partial class Player : Node2D
     {
 		if (@event.IsActionPressed("up")) {
 			if (MyState == State.PLAYING)
+			{
 				vel = Vector2.Up * JumpStrength 
 					+ Vector2.Right * rotation;
+				sfxPool.PlaySound(zoom);
+			}
 			else if (MyState == State.HANGING)
 			{
 				MyState = State.PLAYING;
@@ -165,6 +173,8 @@ public partial class Player : Node2D
 			BeginCircling();
 		}
 		UpdateHealthText();
+		sfxPool.PlaySound(hit);
+		sfxPool.PlaySound(zoom);
 	}
 
 	public void UpdateHealthText() {

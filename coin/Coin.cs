@@ -13,6 +13,10 @@ public partial class Coin : Node2D
 	public RigidBody2D Rb;
 	private RandomNumberGenerator rng;
 	public RichTextLabel ScoreLabel;
+	[Export]
+	private SFXPool sfxPool;
+	[Export]
+	private AudioStream sfx;
 
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
@@ -22,6 +26,7 @@ public partial class Coin : Node2D
 				Randomize();
 				PlayerNode.Score++;
 				UpdateScore();
+				sfxPool.PlaySound(sfx);
 			}
 		};
 		End();
